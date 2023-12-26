@@ -1,2 +1,3 @@
 # demo
-this is my first Git repository
+This Is My First Git Repository
+Author - Aditya Raj
